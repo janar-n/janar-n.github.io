@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="116" viewBox="0 0 900 116" role="img" aria-label="Education: B.Sc, Jairam Arts and Science College, Salem, 2016 to 2018, graduated">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes ty{0%{clip-path:inset(0 100% 0 0)}18%,95%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.ty{animation:ty 6s steps(21) infinite}
+@keyframes bar{0%,19%{opacity:0}20%,95%{opacity:1}100%{opacity:0}}.bar{animation:bar 6s linear infinite}
+@keyframes cv0{0%,20.0%{fill:#d0d7de}20.4%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv0{animation:cv0 6s linear infinite}@keyframes cv1{0%,22.7%{fill:#d0d7de}23.1%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv1{animation:cv1 6s linear infinite}@keyframes cv2{0%,25.4%{fill:#d0d7de}25.8%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv2{animation:cv2 6s linear infinite}@keyframes cv3{0%,28.1%{fill:#d0d7de}28.5%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv3{animation:cv3 6s linear infinite}@keyframes cv4{0%,30.9%{fill:#d0d7de}31.3%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv4{animation:cv4 6s linear infinite}@keyframes cv5{0%,33.6%{fill:#d0d7de}34.0%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv5{animation:cv5 6s linear infinite}@keyframes cv6{0%,36.3%{fill:#d0d7de}36.7%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv6{animation:cv6 6s linear infinite}@keyframes cv7{0%,39.0%{fill:#d0d7de}39.4%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv7{animation:cv7 6s linear infinite}@keyframes cv8{0%,41.7%{fill:#d0d7de}42.1%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv8{animation:cv8 6s linear infinite}@keyframes cv9{0%,44.4%{fill:#d0d7de}44.8%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv9{animation:cv9 6s linear infinite}@keyframes cv10{0%,47.1%{fill:#d0d7de}47.5%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv10{animation:cv10 6s linear infinite}@keyframes cv11{0%,49.9%{fill:#d0d7de}50.3%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv11{animation:cv11 6s linear infinite}@keyframes cv12{0%,52.6%{fill:#d0d7de}53.0%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv12{animation:cv12 6s linear infinite}@keyframes cv13{0%,55.3%{fill:#d0d7de}55.7%,60%{fill:#0969da}62%,95%{fill:#1a7f37}100%{fill:#d0d7de}}.cv13{animation:cv13 6s linear infinite}
+@keyframes dn{0%,63%{opacity:0;transform:translateY(3px)}67%,95%{opacity:1;transform:translateY(0)}100%{opacity:0}}.dn{animation:dn 6s ease-out infinite}
+@keyframes cap{0%,100%{transform:translate(32px,34px) rotate(0)}50%{transform:translate(32px,31px) rotate(-5deg)}}.cap{animation:cap 3s ease-in-out infinite}
+@keyframes tassel{0%,100%{transform:translateX(0)}50%{transform:translateX(-2px)}}.tassel{animation:tassel 1.5s ease-in-out infinite}
+</style>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#f6f8fa"/></pattern>
+<linearGradient id="flow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0969da" stop-opacity="0"/><stop offset=".5" stop-color="#0969da"/><stop offset="1" stop-color="#8250df" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x=".5" y=".5" width="899" height="115" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="1" y="1" width="898" height="114" rx="12" fill="url(#dots)"/>
+
+<g transform="translate(26,26)">
+  <rect width="64" height="64" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <g class="cap" transform="translate(32,34)">
+    <path d="M-20 -6 L0 -15 L20 -6 L0 3 Z" fill="#0969da"/>
+    <path d="M-11 -2 V8 C-11 13 11 13 11 8 V-2 L0 3 Z" fill="#4a78c4"/>
+    <line x1="18" y1="-6" x2="18" y2="8" stroke="#9a6700" stroke-width="1.6"/>
+    <circle class="tassel" cx="18" cy="10" r="2.6" fill="#9a6700"/>
+  </g>
+</g>
+<text x="112" y="50" font-size="17" font-weight="700" fill="#1f2328">Bachelor of Science (B.Sc)</text>
+<text class="mono" x="112" y="72" font-size="12" fill="#57606a">Jairam Arts and Science College, Salem</text>
+<g transform="translate(578,58)">
+  <rect x="-4" y="-36" width="300" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="mono ty" x="8" y="-16.25" font-size="10.5" fill="#1a7f37">$ <tspan fill="#24292f">./graduate --status</tspan></text>
+  <g class="bar" transform="translate(0,1.25)">
+    <text class="mono" x="8" y="3.56" font-size="11" fill="#24292f">2016</text>
+    <path class="cv0" d="M43.0 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv1" d="M58.1 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv2" d="M73.2 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv3" d="M88.3 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv4" d="M103.4 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv5" d="M118.5 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv6" d="M133.6 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv7" d="M148.7 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv8" d="M163.8 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv9" d="M178.9 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv10" d="M194.0 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv11" d="M209.1 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv12" d="M224.2 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/><path class="cv13" d="M239.3 -6.5 h6.5 l6.5 6.5 l-6.5 6.5 h-6.5 l6.5 -6.5 z" fill="#d0d7de"/>
+    <text class="mono" x="286" y="3.56" text-anchor="end" font-size="11" fill="#24292f">2018</text>
+  </g>
+  <text class="mono dn" x="8" y="24" font-size="10.5" fill="#1a7f37">✔ done: Graduated</text>
+</g>
+</svg>
